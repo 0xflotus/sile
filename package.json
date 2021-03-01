@@ -24,7 +24,7 @@
     "commitizen": "^4.2.1",
     "conventional-changelog-cli": "^2.1.0",
     "github-release-cli": "^2.0.0",
-    "husky": "^4.2.5",
+    "husky": "^5.1.2",
     "standard-version": "^9.0.0"
   },
   "config": {
